@@ -1,0 +1,61 @@
+[
+  {
+    "nombre": "javier",
+    "email": "jlopez@gmail.com",
+    "password": "1234",
+    "edad": "30"
+  },
+  {
+    "nombre": "javityo",
+    "email": "jlope2z@gmail.com",
+    "password": "1234",
+    "edad": "30"
+  },
+  {
+    "nombre": "javier",
+    "email": "",
+    "password": "",
+    "edad": ""
+  },
+  {
+    "nombre": "javier",
+    "email": "jlopez@gmeil.com",
+    "password": "1234",
+    "edad": "30"
+  },
+  {
+    "nombre": "a",
+    "email": "",
+    "password": "a",
+    "edad": ""
+  },
+  {
+    "nombre": "a",
+    "email": "",
+    "password": "1234",
+    "edad": ""
+  },
+  {
+    "nombre": "a",
+    "email": "",
+    "password": "",
+    "edad": ""
+  },
+  {
+    "email": "gabi@gmail.com",
+    "password": "1234",
+    "edad": "50"
+  },
+  {
+    "nombre": "javier",
+    "email": "",
+    "password": "1234",
+    "edad": ""
+  },
+  {
+    "nombre": "gabriel",
+    "email": "gabriel@gmail.com",
+    "password": "1234",
+    "edad": "40"
+  }
+]
